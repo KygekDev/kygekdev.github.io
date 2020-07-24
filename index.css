@@ -1,0 +1,30 @@
+h1 {
+	font-family: Segoe UI;
+	text-align: center;
+	line-height: 20px;
+}
+
+h3 {
+	font-family: Segoe UI;
+	text-align: center;
+	line-height: 10px;
+}
+
+hr {
+  width: 95%;
+	height: 2px;
+	background-color: black;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+p {
+	font-family: Segoe UI;
+	text-align: center;
+	line-height: 10px;
+}
+
+a {
+	font-family: Segoe UI;
+	margin-left: 2.3%;
+}
