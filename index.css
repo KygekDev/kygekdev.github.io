@@ -11,7 +11,7 @@ h3 {
 }
 
 hr {
-  width: 95%;
+  	width: 95%;
 	height: 2px;
 	background-color: black;
 	margin-right: auto;
@@ -27,4 +27,8 @@ p {
 a {
 	font-family: Segoe UI;
 	margin-left: 2.3%;
+}
+
+.information {
+	font-family: Segoe UI;
 }
