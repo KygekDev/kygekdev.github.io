@@ -11,7 +11,7 @@ h3 {
 
 hr {
   	width: 95%;
-	height: 2px;
+	height: 1px;
 	background-color: black;
 	margin-right: auto;
 	margin-left: auto;
@@ -25,13 +25,16 @@ p {
 
 .information {
 	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 3%;
 }
 
 .title {
 	font-family: Segoe UI;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: bold;
-	text-align: center;
+	margin-left: 30px;
 }
 
 .motto {
@@ -42,10 +45,16 @@ p {
 
 .home {
 	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 3%;
 }
 
 .about {
 	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 3%;
 }
 
 .notice {
