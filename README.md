@@ -1,2 +1,2 @@
-# https://kygekraqmak.github.io
-Kygekraqmak's Website
+# https://kygekdev.github.io
+KygekDev's Website
