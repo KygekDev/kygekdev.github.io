@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kygekdev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kygekdev.github.io
+  * I am kygekdev (https://keybase.io/kygekdev) on keybase.
+  * I have a public key with fingerprint 15B2 A4B1 D01A 953B 8470  56C8 4FAC D144 842B E5C8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e1bb1262a43666cc1bb084469ea1d1e4e49ebcf256b7e90d8c166f5b08b25e9c0a",
+      "fingerprint": "15b2a4b1d01a953b847056c84facd144842be5c8",
+      "host": "keybase.io",
+      "key_id": "4facd144842be5c8",
+      "kid": "0101e1bb1262a43666cc1bb084469ea1d1e4e49ebcf256b7e90d8c166f5b08b25e9c0a",
+      "uid": "5bd35fc0868103d5f844419a54071c19",
+      "username": "kygekdev"
+    },
+    "service": {
+      "hostname": "kygekdev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1626854285,
+  "expire_in": 157680000,
+  "prev": "1ec1a80328e8f16143ff2fabbfeb9d6d53f0a472be3e76c99a30e24c226d243d",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbbExBGN5tVS/ikhCpkkhOUiLWmpkzZ3bOhkTF5YFECA+SyjpzOduj
+7K6zp0tTjUjEnZA0QkII4sUlNC1LJShaVFTcK6VJXRNBolKNkJpTvIhH8zL5//m+
+7//+f/7rQ3MDRUF6/8jm6IbCvcG2qwerAsu/PthZo7GkqNaiNVqlHLjkSiHTXqzS
+EVpUAxBACRmDiCAL64QQzlUIKMbElBYUUGKJTcm4jQzCItIEgnJIiG0oEEOGNDmw
+tJBmO4m4dFOuk/CULDSYkmNQAGiZhs4ojgCDcIptiwuIMcWISYNTRaxIpn2GMses
+tAw7SZVTQWzA3j/w/9l31YCcwYRu2BxQQiHQhWErHQxNy8AgAjk0fWBauglrlfS9
+VsdlpZAZrTakqWzG4dIfrN/JX4hw3PEqqtivrlJu0kvy5Er1XuF5qXTU53vVKZ+w
+RrLYb6kYcxJCTVMxMtJNO8mEFoUKyT3H14YEEWpgRI2QJtemHFfGHB9hRAgF6vh1
+lDX1B5JDiwIdUUltSCDWbRvZFmO2ZKYgwtBtYOGIGqwuI4SbpqUDiTBHiAiEdaH5
+za1OJLUoUjatuJJMO/GE5VW5UqttvlI+KBAsCgzOy/G3LFBUOOLP7n1J5/e7U5+e
+drvC48OF2eHtoO2Rlf/6VUlTfUfbPbm/oqs7c3ZH6OPNYNmY7vb1i89llh6eWD8j
+XNL/7dT3ocW5eYNLeruL2lus1I47PQV7QPkoVLur+cSkFR/emZdm3Z89r6WvYM22
+yl0vJ81svLsz8qlzRag5MWd66xww4mBOz7BFB370dOkNNR2F64rjqdYt/dnLjQV1
+2ZP5yw59ejv5DKoTFyY8GTsr3LBgyNxbe7c+3DSNOtnHCzdeO5pTOiVybHfjRfF4
+Rldu3fJ9b8rGLWl60sBf9o2+XY/Oi/q2ax/ynh17//zA2pH922uaevfdmv+0FIe3
+v+i4EaDHs8GbP6Zd+Nx5Mhsc9hNeY0ro
+=o5zb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kygekdev
+
+==================================================================
